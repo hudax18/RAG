@@ -1,4 +1,4 @@
-# 📦 RAG in a Box: Hybrid & Exclusive RAG System
+# 📦 RAG in a Box
 
 Sistem **Retrieval-Augmented Generation (RAG)** yang modular, dan mudah pakai. Mendukung penggunaan model Cloud (Gemini, OpenAI, Groq) dan model Lokal (GGUF via llama-cpp).
 
